@@ -1,4 +1,4 @@
-package pe.edu.utp.dwi.zarandajaweb.service;
+package pe.edu.utp.jsf_nav.service;
 
 import java.util.ResourceBundle;
 

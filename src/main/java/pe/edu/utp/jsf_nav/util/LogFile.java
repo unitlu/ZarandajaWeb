@@ -1,8 +1,7 @@
-package pe.edu.utp.dwi.zarandajaweb.util;
+package pe.edu.utp.jsf_nav.util;
 
 
-
-import pe.edu.utp.dwi.zarandajaweb.service.AppConfig;
+import pe.edu.utp.jsf_nav.service.AppConfig;
 
 import java.io.IOException;
 import java.time.LocalDateTime;

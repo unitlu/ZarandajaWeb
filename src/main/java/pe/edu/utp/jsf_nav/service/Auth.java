@@ -1,9 +1,7 @@
-package pe.edu.utp.dwi.zarandajaweb.service;
+package pe.edu.utp.jsf_nav.service;
 
-
-
-import pe.edu.utp.dwi.zarandajaweb.util.DataAccessMariaDB;
-import pe.edu.utp.dwi.zarandajaweb.util.LogFile;
+import pe.edu.utp.jsf_nav.util.DataAccessMariaDB;
+import pe.edu.utp.jsf_nav.util.LogFile;
 
 import javax.naming.NamingException;
 import java.io.IOException;

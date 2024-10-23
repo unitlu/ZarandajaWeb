@@ -1,4 +1,4 @@
-package pe.edu.utp.dwi.zarandajaweb.util;
+package pe.edu.utp.jsf_nav.util;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
