@@ -1,4 +1,4 @@
-package pe.edu.utp.zarandajaproject.utils;
+package pe.edu.utp.zarandajaproject.util;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

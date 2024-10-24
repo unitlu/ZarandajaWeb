@@ -1,4 +1,5 @@
-package pe.edu.utp.zarandajaproject.utils;
+package pe.edu.utp.zarandajaproject.util;
+
 
 import pe.edu.utp.zarandajaproject.service.AppConfig;
 

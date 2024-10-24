@@ -1,4 +1,4 @@
-package pe.edu.utp.zarandajaproject.utils;
+package pe.edu.utp.zarandajaproject.util;
 
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
