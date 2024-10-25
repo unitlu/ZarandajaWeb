@@ -51,4 +51,5 @@ El proyecto consiste en el desarrollo de un Sistema de Gestión de Pedidos para 
             </a>
         </td>
     </tr>
+<p>Cambio desde fribisidi - UPDATE AKICOD  </p>
 </table>
